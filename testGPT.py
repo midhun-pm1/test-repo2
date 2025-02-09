@@ -70,7 +70,7 @@ class Car:
 my_car = Car("Tesla", "Model S", 2023)
 my_car.display_info()
 
-# 8️⃣ Exception Handling (Error Handling)
+# 8⃣ Exception Handling (Error Handling)
 try:
     num = int(input("\nEnter a number: "))
     print(f"You entered: {num}")
